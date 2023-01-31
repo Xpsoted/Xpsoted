@@ -18,7 +18,7 @@
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 📱 Devices
-[![Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)]
+[Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 [![Xiaomi 5](https://img.shields.io/badge/Xiaomi%205-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)]
 [![iPhone 13mini](https://img.shields.io/badge/iPhone%2013mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://product.pconline.com.cn/mobile/apple/1083339.html)
 [![iPhone 7P](https://img.shields.io/badge/iPhone%207P-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)]
