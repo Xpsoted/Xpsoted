@@ -22,3 +22,5 @@
 [![iPhone 5](https://img.shields.io/badge/iPhone%205-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)]
 
 ![github contribution grid snake animation](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://github.com/xiaoleGun/xiaoleGun/raw/snake/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![Visitor Count](https://profile-counter.glitch.me/Xpsoted/count.svg)
