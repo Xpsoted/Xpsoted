@@ -5,7 +5,7 @@
 - 📫 Email: wangguanzhiabcd@126.com(For China);wangguanzhiabc@gmail.com(For Golobal)
 - 🏠 I'm a student of University of Toronto
 - A staunch communist
-- “学会抗压”
+- Coolapk@SKDushow
 
 ### 💻 Environment
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10)
@@ -17,7 +17,7 @@
 ### 📱 Devices
 ![Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
 ![Xiaomi 5](https://img.shields.io/badge/Xiaomi%205-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![iPhone 13mini](https://img.shields.io/badge/iPhone%2013mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://product.pconline.com.cn/mobile/apple/1083339.html)
+![iPhone 13mini](https://img.shields.io/badge/iPhone%2013mini-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
 ![iPhone 7P](https://img.shields.io/badge/iPhone%207P-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
 ![iPhone 5](https://img.shields.io/badge/iPhone%205-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)
 
